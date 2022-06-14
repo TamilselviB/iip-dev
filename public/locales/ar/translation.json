@@ -1,0 +1,27 @@
+{
+    "languages":{
+        "en":"English",
+        "ar":"عربى"
+    },
+    "header":{
+        "search":"بحث"
+    },
+    "insurance":{
+        "title":"تأمين"
+    },
+    "customer":{
+        "get_quote":"الحصول على الاقتباس",
+        "claim_status":"حالة المطالبة",
+        "compare_policy":"مقارنة السياسة",
+        "active_post":"مشاركة نشطة",
+        "draft":"مشروع",
+        "submitted":"قدمت",
+        "received_quotes":"تلقى اقتباسات",
+
+        "my_policies":"سياساتي"
+    },
+    
+    "getquote":{
+        "button":"الحصول على الاقتباس"
+    }
+}

@@ -1,0 +1,39 @@
+.noOfFloors {
+    color: red;
+    margin-left: 217px;
+    margin-top: -9px;
+    font-size: 14px;
+}
+
+.buildingHeight {
+    color: red;
+    margin-left: 471px;
+    margin-top: -9px;
+    font-size: 14px;
+}
+
+.yearBuilt {
+    color: red;
+    margin-left: -40px;
+    margin-top: -9px;
+    font-size: 14px;
+}
+
+.occupancyType {
+    color: 'red';
+    margin-left: -40px;
+    margin-top: -1px;
+    font-size: 14px;
+}
+
+.constructionType {
+    color: 'red';
+    margin-left: 354px;
+    margin-top: -1px;
+    font-size: 14px;
+}
+
+.specialRadio {
+    margin-left: 110px !important;
+    margin-top: -50px !important;
+}

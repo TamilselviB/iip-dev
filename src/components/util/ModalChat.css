@@ -1,0 +1,9 @@
+.MuiDialog-paperWidthSm{
+	height: 500px;
+	width: 850px;
+}
+.MuiDialogActions-root {
+    flex: none !important;
+    display: block !important;
+    padding: 8px;
+}

@@ -1,0 +1,16 @@
+.requestcard-title {
+  font-size: 13px;
+  margin-top: -5px;
+  color: #2125299e;
+}
+
+.requestcard-count {
+  font-size: 25px;
+  float: right;
+  color: #27273e;
+}
+
+.requestcard-icon {
+  font-size: 25px;
+  color: #f04763;
+}

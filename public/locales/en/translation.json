@@ -1,0 +1,26 @@
+{
+    "languages":{
+        "en":"English",
+        "ar":"عربى"
+    },
+    "header":{
+        "search":"search"    
+    },
+    "insurance":{
+        "title":"insurance"
+    },
+    "customer":{
+        "get_quote":"Get Quote",
+        "claim_status":"Claim Status",
+        "compare_policy":"Compare Policy",
+        "active_post":"Active Post",
+        "draft":"Draft",
+        "submitted":"Submitted",
+        "received_quotes":"Received Quotes",
+
+        "my_policies":"My Policies"
+    },
+    "getquote":{
+        "button":"Get Quote"
+    }
+}

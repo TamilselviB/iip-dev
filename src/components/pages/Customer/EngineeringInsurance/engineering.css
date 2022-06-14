@@ -1,0 +1,142 @@
+.alignFieldLeft {
+  margin-left: -15px !important;
+  width: 300px;
+}
+.alignFieldRight {
+  margin-left: 76px !important;
+  width: 300px;
+}
+.riskAlign {
+  margin-left: -43px !important;
+  width: 350px !important;
+}
+.riskAlign1 {
+  margin-left: -43px !important;
+  width: 230px !important;
+}
+.riskRightAlign {
+  margin-left: 29px !important;
+  width: 350px !important;
+}
+.riskLocation {
+  margin-left: -43px !important;
+  width: 729px !important;
+}
+.alignTitle{
+  margin-left: -43px !important;
+   width: 230px !important;
+}
+.alignInfo{
+  margin-left: 14px !important;
+   width: 230px !important;
+}
+.alignRight{
+  margin-left: 17px !important;
+    width: 237px;
+}
+.btnAdd {
+  color: black;
+  background-color: white;
+  margin-left: 10px;
+  margin-top: -82px;
+  margin-bottom: 28px;
+}
+.checkCover {
+  margin-left: -78px !important;
+}
+.cover1 {
+  width: 230px;
+}
+.sumInsured {
+  width: 207px;
+  margin-left: 27px !important;
+  text-align: right !important;
+}
+.exRate {
+  width: 190px;
+  margin-left: 28px !important;
+  text-align: right !important;
+}
+.coverRadio {
+  height: 90px;
+  margin-left: 110px;
+}
+.CoverageLabel {
+  color: black;
+  margin-left: -75px;
+}
+.sumLabel {
+  margin-left: 100px;
+  color: black;
+}
+.expectedLabel {
+  margin-left: 25px;
+  color: black;
+}
+.exField {
+  width: 730px !important;
+  margin-left: 1px;
+  margin-bottom: 0px;
+}
+.deducts {
+  margin-left: -66px !important;
+}
+.containerUpl {
+  border: 1px dashed gray;
+  height: 265px;
+  font-weight: bold;
+  background-color: #efefef;
+  width: 310px;
+  text-align: center;
+  margin-left: -69px;
+}
+.cont {
+  margin-left: -195px;
+}
+.box {
+  border: 1px dashed gray;
+  text-align: center;
+  margin-left: 58px;
+  margin-top: 20px;
+  width: 286px;
+  background-color: white;
+}
+.upload{
+margin-left: -49px !important;
+}
+.fileUpl{
+  text-align: center;
+  margin-top: -33px;
+  position: absolute;
+  margin-left: -93px;
+  opacity: 0;
+}
+.contain{
+   border: 0px dashed gray;
+   height: 271px;
+   width: 513px;
+}
+.uplFile{
+  margin-left: -24px;
+  margin-top: 5px;
+}
+.alignBtn{
+  width: 97px;
+  height: 40px;
+  margin-top: -4px;
+}
+.wrap{
+  margin-left: -71px;
+  width: 475px;
+}
+.valueAlign{
+  width: 120px;
+  margin-left: 27px !important;
+}
+.proValue{
+  width: 208px;
+  margin-left: 23px !important;
+}
+.coverAlign{
+margin-left: -49px;
+}

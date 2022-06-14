@@ -1,0 +1,228 @@
+.alignFieldLeft {
+  margin-left: -15px !important;
+  width: 300px;
+}
+.alignFieldRight {
+  margin-left: 76px !important;
+  width: 300px;
+}
+.iconCheck {
+  font-size: 30px;
+  color: #f04763;
+  margin-left: -19px;
+  margin-bottom: -42px;
+}
+#headingInfo {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: bold;
+  color: #27273e;
+  margin-left: 17px;
+}
+.alignAddress {
+  margin-left: -15px !important;
+  width: 678px;
+}
+.alignExpected {
+  margin-left: -37px !important;
+}
+.alignExpectedField {
+  margin-left: -37px !important;
+  width: 745px;
+}
+.alignThreeLeft {
+  width: 200px !important;
+  margin-left: -15px !important;
+}
+.alignThreeCenter {
+  width: 200px !important;
+  margin-left: 38px !important;
+}
+.alignThreeRight {
+  width: 200px !important;
+  margin-left: 38px !important;
+}
+.addRow {
+  width: 120px;
+  height: 40px;
+  background-color: darkblue;
+}
+.upload {
+  height: 40px;
+  margin-top: -4px;
+  width: 97px;
+  margin-left: -71px;
+}
+.uploadDocs {
+  margin-left: 181px;
+}
+.boxUpl {
+  border: 1px dashed gray;
+  text-align: center;
+  margin-left: 65px;
+  background-color: white;
+  margin-top: 27px;
+  width: 283px;
+}
+.wrapp {
+  margin-left: -71px;
+  width: 475px;
+}
+.filePdf {
+  color: red;
+  background-color: white;
+  font-size: 22px;
+}
+.uploadCont {
+  border: 1px dashed gray;
+  height: 265px;
+  font-weight: bold;
+  background-color: rgb(239, 239, 239);
+  width: 310px;
+  text-align: center;
+  margin-left: 110px;
+}
+.radioAlign {
+  margin-left: 110px !important;
+}
+.coverLabel {
+  margin-left: -75px !important;
+}
+.sumLabel {
+  margin-left: 90px;
+}
+.expectedLabel {
+  margin-left: 41px;
+}
+.styleCheck {
+  margin-left: -86px !important;
+}
+.styleCheck1 {
+  margin-left: -85px !important;
+  margin-top: -2px;
+}
+.terms {
+  width: 710px !important;
+}
+.btnSave {
+  margin-top: 25px !important;
+  margin-right: 268px !important;
+  float: right !important;
+  background-color: #27273e !important;
+  color: white !important;
+  border-radius: 34px !important;
+  width: 180px !important;
+  height: 40px !important;
+}
+.btnSave1 {
+  margin-top: 25px !important;
+  margin-right: 208px !important;
+  float: right !important;
+  background-color: #27273e !important;
+  color: white !important;
+  border-radius: 34px !important;
+  width: 180px !important;
+  height: 40px !important;
+}
+.btnProperty {
+  margin-top: 25px !important;
+  margin-right: 35px !important;
+  float: right !important;
+  background-color: #F04763 !important;
+  color: white !important;
+  border-radius: 34px !important;
+  width: 180px !important;
+  height: 40px !important;
+}
+.btnConfirm {
+  margin-top: 25px !important;
+  margin-right: 228px !important;
+  float: right !important;
+  background-color: #27273e !important;
+  color: white !important;
+  border-radius: 34px !important;
+  width: 180px !important;
+  height: 40px !important;
+}
+.btnSaveConfirm {
+  margin-right: 90px !important;
+  margin-top: 50px !important;
+  float: right !important;
+  background-color: #27273e !important;
+  color: white !important;
+  border-radius: 34px !important;
+  width: 180px !important;
+  height: 40px !important;
+}
+.infocard {
+  margin-left: 60px !important;
+  margin-right: 40px !important;
+  padding: 30px 2px 34px !important;
+}
+.alignFieldCover {
+  width: 200px !important;
+  margin-left: 38px !important;
+}
+.alignFieldCover1 {
+  width: 200px !important;
+  margin-left: 38px !important;
+}
+.headclr{
+  background-color: #efefef;
+  color:#27273e;
+}
+.cellclr
+{
+   color:#27273e;
+   font-size: 16px !important;
+   font-weight: bold !important;
+   border:1px solid whitesmoke;
+}
+.listclr{
+color: black;
+background-color: whitesmoke;
+}
+.rowField{
+  background-color: whitesmoke !important;
+}
+.sideHead
+{
+  font-size: 23px !important;
+  margin-top: 3px;
+}
+.sideHead1
+{
+  font-size: 20px !important;
+  margin-top: 6px;
+}
+.editBtn{
+  margin-left: 148px !important;
+  margin-top: -47px !important;
+}
+.editIcon{
+color: #27273E;
+margin-bottom: 7px;
+}
+.details{
+  font-size: 14px;
+  color: #333;
+}
+.details1{
+  font-size: 14px;
+  color: #333;
+  margin-top: -11px !important;
+}
+.details2{
+  font-size: 14px;
+  color: #333;
+  margin-top: -16px !important;
+}
+.userIcon{
+  color:#F04763;
+}
+.alignFile{
+  margin-left: -171px !important;
+}
+.btnUpload{
+  margin-left: 245px;
+    margin-top: -36px;
+}
